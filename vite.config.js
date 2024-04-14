@@ -10,5 +10,5 @@ export default defineConfig({
   },
   envDir: '.',
   // base: '/red-camelot/',
-  base: './'
+  base: 'https://braiandevcode.github.io/red-camelot/'
 })
