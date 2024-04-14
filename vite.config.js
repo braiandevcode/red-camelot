@@ -9,5 +9,6 @@ export default defineConfig({
     port:8080
   },
   envDir: '.',
-  base: '/red-camelot/',
+  // base: '/red-camelot/',
+  base: './'
 })
